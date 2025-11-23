@@ -9,7 +9,7 @@
 - [Mariusz Zastawski](https://github.com/zastawskiMariusz/mariusz-Zastawski)
 - [Marcel Wiński](https://github.com/MarcelWinski/J-zyki-Programowania.git)
 - [Patryk Szumski](https://github.com/PSzumski04/Laby)
-- [Andrzej Walewski](https://github.com/Awalewski01/LabUG)
+- [Andrzej Walewski](https://github.com/AndrzejW01/LabUG.git)
 - [Tomasz Zwara](https://github.com/t0musss/repozytoriumUG)
 - [Aneta Stala](https://github.com/AnetaStala6/Jezyki-programowania.git)
 - [Marcel Szymanek](https://github.com/marc4112/marcel-szym)
